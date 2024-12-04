@@ -5,7 +5,7 @@
 ### Instrumentos que Utilizo:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-D72AF7?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/D72AF7?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![](https://img.shields.io/badge/-GitHub-D72AF7?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 ### Linguagens que Utilizo:
